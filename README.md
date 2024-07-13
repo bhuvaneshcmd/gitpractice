@@ -1,1 +1,2 @@
-# gitpractice
+How to create a repo
+
